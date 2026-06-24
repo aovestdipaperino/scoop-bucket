@@ -7,10 +7,6 @@
     "64bit": {
       "url": "https://github.com/aovestdipaperino/tokensave/releases/download/v7.0.1/tokensave-v7.0.1-x86_64-windows.zip",
       "hash": "cb9f37079e6aba3240e81e9664dc7ecd13089d7eb676bd94fde7775be3e4b840"
-    },
-    "arm64": {
-      "url": "https://github.com/aovestdipaperino/tokensave/releases/download/v7.0.1/tokensave-v7.0.1-aarch64-windows.zip",
-      "hash": ""
     }
   },
   "bin": "tokensave.exe",
@@ -21,9 +17,6 @@
     "architecture": {
       "64bit": {
         "url": "https://github.com/aovestdipaperino/tokensave/releases/download/v$version/tokensave-v$version-x86_64-windows.zip"
-      },
-      "arm64": {
-        "url": "https://github.com/aovestdipaperino/tokensave/releases/download/v$version/tokensave-v$version-aarch64-windows.zip"
       }
     }
   }
